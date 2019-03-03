@@ -6,3 +6,8 @@ This class can be used to convert dates between the Hijri and Gregorian calendar
 * Returns dates formatted like the PHP date() function
 * Outputs English/Arabic formatted Hijri and Gregorian dates and times
 * Provides date() and mktime() function versions for Hijri
+
+
+# Exmaple
+
+![Screenshot](sample1.gif)
